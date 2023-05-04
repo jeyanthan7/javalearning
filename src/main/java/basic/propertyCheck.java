@@ -12,4 +12,4 @@ public class propertyCheck {
         in.close();
         System.out.println(defaultProps.getProperty("son"));
     }
-    }
+}
