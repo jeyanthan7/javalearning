@@ -11,3 +11,4 @@ It has a basic page
 5. palindrome code -- scanner + string split + method
 6. propertyCheck - load properties and get the data from the file 
 7. dbConnection - dependancy to add mysql refer pom file and follow steps to get resultset... used properties and db query together
+8. Collection package - hash set and hash map basic code added 
