@@ -13,3 +13,7 @@ It has a basic page
 7. dbConnection - dependancy to add mysql refer pom file and follow steps to get resultset... used properties and db query together
 8. Collection package - hash set and hash map basic code added 
 9. added hashtable basic code in collections package
+10. external foreach check in basic
+11. lambda expression -> functional interface in advance pack
+12. lambda expression with multiple params in advance pack
+13. internal for each with lambda expression in advance pack
